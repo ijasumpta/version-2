@@ -20,6 +20,7 @@ header{
     min-height: 50vh;
 }
 .future {
-    background-color: brown;
+    background-color: gold;
     color: white; 
+    padding: 2rem;
 }
