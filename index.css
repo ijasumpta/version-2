@@ -19,3 +19,7 @@ header{
     background-color: gray;
     min-height: 50vh;
 }
+.future {
+    background-color: red;
+    color: white 
+}
