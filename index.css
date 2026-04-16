@@ -24,3 +24,8 @@ header{
     color: white; 
     padding: 2rem;
 }
+
+footer{
+    background-color: cornflowerblue;
+    padding: 4rem;
+}
